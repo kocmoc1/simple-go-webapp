@@ -83,3 +83,11 @@ body {
     position: absolute;
     left: 1rem;
 }
+
+#container {
+    position: relative;
+}
+#copyright {
+    position: absolute;
+    bottom: 0;
+}
